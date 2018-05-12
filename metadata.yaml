@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35336
     wikipedia: http://pt.wikipedia.org/wiki/Guilherme_Read_Cabral
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31573#Um-novo-mundo
 gutenberg_bookshelf: PT Contos
 gutenberg_issued: '2010-03-09'
 gutenberg_type: Text
