@@ -1,0 +1,27 @@
+_repo: Um-novo-mundo_31573
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cabral, Guilherme Read
+    alias: Read, William Harding
+    gutenberg_agent_id: '35336'
+    url: http://www.gutenberg.org/2009/agents/35336
+    wikipedia: http://pt.wikipedia.org/wiki/Guilherme_Read_Cabral
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2010-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31573'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Science fiction'
+title: Um novo mundo
+url: http://www.gutenberg.org/ebooks/31573
